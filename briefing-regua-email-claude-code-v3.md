@@ -1,5 +1,5 @@
-# Briefing — Régua de Email de Nutrição (V3)
-## Série pessoal do Antonio para autônomos
+# Briefing — Régua de Email de Nutrição (V4)
+## Série pessoal da Dani Coragem para profissionais de saúde
 
 ---
 
@@ -7,41 +7,55 @@
 
 Você está gerando emails HTML para a **Contabilizei**, a maior contabilidade online do Brasil. 
 
-O projeto se chama **GTM Formalização** e tem como objetivo engajar profissionais autônomos especializados **antes** deles pensarem em abrir CNPJ — construindo relacionamento e confiança com a marca via conteúdo útil. A principal barreira de mercado é a indicação do contador tradicional; queremos que quando o autônomo estiver pronto para formalizar, a Contabilizei já seja referência.
+O projeto se chama **GTM Formalização** e tem como objetivo engajar profissionais de saúde **antes** deles pensarem em abrir CNPJ — construindo relacionamento e confiança com a marca via conteúdo útil. A principal barreira de mercado é a indicação do contador tradicional; queremos que quando o profissional estiver pronto para formalizar, a Contabilizei já seja referência.
 
 ### Público-alvo
 
-Profissionais autônomos especializados que atuam como Pessoa Física (PF) e ainda não têm CNPJ. Os principais segmentos são: profissionais de saúde, psicólogos, engenheiros, arquitetos, advogados, profissionais de marketing/publicidade, consultores e educadores/coaches. 
+**Esta régua é 100% focada em profissionais de saúde** que atuam como Pessoa Física (PF) e ainda não têm CNPJ. Os principais perfis são: médicos, dentistas, psicólogos, fisioterapeutas, nutricionistas, fonoaudiólogos, terapeutas ocupacionais, biomédicos, farmacêuticos, veterinários e educadores físicos.
 
-**Dado crítico:** Esse público NÃO se identifica como um grupo homogêneo. Cada profissão tem dores, linguagem e contextos próprios. Personalização por profissão é essencial para gerar conexão.
+**Contextos típicos:**
+- Plantonista, hospitalista ou atendimento em consultório (próprio ou dividido)
+- Atendimento por convênios + particular
+- Múltiplas fontes de renda (clínica + plantão + cursos)
+- Recém-formados saindo de residência ou pós
+- Profissionais consolidados que pensam em ter consultório próprio
+
+**Dado crítico:** Mesmo dentro da saúde, as dores variam — um médico plantonista tem realidade diferente de um dentista de consultório próprio ou de uma psicóloga em atendimento online. Use linguagem da rotina clínica (paciente, consulta, atendimento, plantão, consultório) e respeite o vocabulário do conselho profissional (CRM, CRO, CRP, CREFITO, CRN, CRF, CRMV, CREF, CFFa).
 
 ### Origem dos leads nesta régua
 
-São pessoas que baixaram um material rico (calculadora RPA, modelo de contrato de prestação de serviço, emissor de recibo, guia IRPF, planilha de controle financeiro) ou usaram uma ferramenta da Contabilizei. Já deram seus dados em troca de conteúdo — sabem que a Contabilizei existe, mas ainda não agendaram assessoria nem estão ativamente buscando abrir CNPJ.
+São profissionais de saúde que baixaram um material rico (calculadora RPA, modelo de recibo médico, guia IRPF para profissionais de saúde, planilha de controle financeiro, modelo de contrato de prestação) ou usaram uma ferramenta da Contabilizei. Já deram seus dados em troca de conteúdo — sabem que a Contabilizei existe, mas ainda não agendaram assessoria nem estão ativamente buscando abrir CNPJ.
 
 ---
 
-## 2. O conceito central: série pessoal do Antonio
+## 2. O conceito central: série pessoal da Dani Coragem
 
-Esta régua NÃO é uma sequência de emails marketing corporativos. É uma **série semanal assinada pessoalmente pelo Antonio**, do time de Growth da Contabilizei. O leitor deve sentir que está recebendo um email de uma pessoa real que entende o dia a dia dele — não de uma máquina de automação.
+Esta régua NÃO é uma sequência de emails marketing corporativos. É uma **série semanal assinada pessoalmente pela Dani Coragem**, Diretora de Experiência do Cliente da Contabilizei. A leitora deve sentir que está recebendo um email de uma pessoa real que entende o dia a dia dela — não de uma máquina de automação.
 
-### Sobre o Antonio (sender)
+### Sobre a Dani Coragem (sender)
 
-- **Nome do sender:** Antonio
-- **Assinatura padrão:** "Antonio, do time de Growth da Contabilizei" *(ajustável pelo Antonio — pode ser "Antonio, Growth na Contabilizei" ou algo mais curto)*
-- **From name sugerido no HubSpot:** `Antonio (Contabilizei)` ou `Antonio | Contabilizei`
-- **Voz:** primeira pessoa, conversacional, sem formalidade de marca
-- **Postura:** Antonio é alguém que conversa com centenas de autônomos, estuda suas dores e compartilha o que aprende. Não vende — oferece conteúdo e acompanhamento. Quando menciona a assessoria, é como quem indica um recurso interno, não como vendedor.
+- **Nome do sender:** Dani Coragem
+- **Cargo:** Diretora de Experiência do Cliente da Contabilizei
+- **Assinatura padrão:**
+  ```
+  Um abraço,
+  Dani Coragem
+  Diretora de Experiência do Cliente · Contabilizei
+  ```
+- **From name sugerido no HubSpot:** `Dani Coragem (Contabilizei)` ou `Dani | Contabilizei`
+- **Voz:** primeira pessoa, conversacional, sem formalidade corporativa, mas com a autoridade de quem lidera a área de experiência do cliente
+- **Postura:** Dani é alguém que ouve milhares de profissionais de saúde toda semana através do time dela. Conhece de perto os padrões, as dúvidas recorrentes e as travas. Não vende — compartilha o que vê, o que aprende e o que a equipe escuta. Quando menciona a assessoria, é como quem indica um recurso interno do qual ela mesma cuida da qualidade.
+- **Foto na assinatura:** Foto profissional pequena (44–50px, redonda) ao lado da assinatura é parte do conceito. Reforça que é uma pessoa real.
 
 ### O que muda em relação a um email corporativo
 
-| Email corporativo | Email do Antonio (esta régua) |
-|-------------------|-------------------------------|
-| "A Contabilizei preparou…" | "Nessa semana queria te falar sobre…" |
+| Email corporativo | Email da Dani (esta régua) |
+|-------------------|----------------------------|
+| "A Contabilizei preparou…" | "Essa semana queria te contar uma coisa que vejo muito…" |
 | Banner grande com imagem de hero | Header mínimo, texto em primeiro lugar |
-| Voz da marca | Voz do Antonio em 1ª pessoa |
+| Voz da marca | Voz da Dani em 1ª pessoa |
 | CTA entre várias opções | 1 CTA claro, oferecido como próximo passo natural |
-| Assinatura institucional | Assinatura pessoal: "Abraço, Antonio" |
+| Assinatura institucional | Assinatura pessoal com foto: "Um abraço, Dani" |
 | Isolados entre si | Cada email referencia o anterior e o próximo |
 
 ### A lógica de série (callbacks e teasers)
@@ -50,7 +64,7 @@ Cada email tem **3 elementos obrigatórios** que amarram a série:
 
 1. **Callback (do email 2 em diante):** Referência curta ao email anterior. Ex: "Semana passada te contei sobre X. Hoje quero puxar um fio parecido…"
 2. **Conteúdo da semana:** Ataque à dor + material/insight + CTA (detalhado na seção 3)
-3. **Teaser (do email 1 ao 9):** Adiantamento curto do próximo. Ex: "Semana que vem volto aqui com [tema do próximo], que é uma dor que a maioria dos autônomos subestima."
+3. **Teaser (do email 1 ao 9):** Adiantamento curto do próximo. Ex: "Semana que vem volto aqui com [tema do próximo], que é uma dor que a maioria dos profissionais de saúde subestima."
 
 No email 1, substitua o callback por uma **apresentação breve da série** ("nas próximas 10 semanas vou te mandar…").  
 No email 10, substitua o teaser por um **fechamento da série** com convite forte para a assessoria.
@@ -68,7 +82,7 @@ No email 10, substitua o teaser por um **fechamento da série** com convite fort
 
 ### Bloco A — Emails com CTA para Assessoria Contábil (4 emails)
 
-Os temas são argumentos de formalização que levam o autônomo a considerar abrir CNPJ.
+Os temas são argumentos de formalização que levam o(a) profissional a considerar abrir CNPJ.
 
 | # | Tema | Dor central | Subject line deve atacar |
 |---|------|------------|--------------------------|
@@ -79,7 +93,7 @@ Os temas são argumentos de formalização que levam o autônomo a considerar ab
 
 ### Bloco B — Emails com CTA para Contabilizei Mais (6 emails)
 
-Os temas são conteúdos educacionais da plataforma Contabilizei Mais, ancorados em dores reais dos autônomos.
+Os temas são conteúdos educacionais da plataforma Contabilizei Mais, ancorados em dores reais dos profissionais de saúde.
 
 | # | Tema (curso/conteúdo) | Dor central | Subject line deve atacar |
 |---|----------------------|------------|--------------------------|
@@ -98,12 +112,12 @@ A ordem alterna conteúdo educacional (B) com argumentos de formalização (A). 
 |--------|-------|---------------------|-------------------|
 | 01 | **B1** — Conheça CTBZ Mais (Estagnação) | — *(apresentação da série)* | "Semana que vem: o que separa quem ganha bem de quem fica travado na renda." |
 | 02 | **A1** — Formalizados ganham 3x mais (Teto de renda) | "Semana passada te apresentei a plataforma. Hoje vou mais fundo em algo que vi nos dados…" | "Semana que vem: como parar de se sentir sobrecarregado sem trabalhar menos." |
-| 03 | **B2** — Produtividade (Sobrecarga) | "No último email falei sobre renda. Mas adianta ganhar mais se a sua agenda já tá no limite?" | "Semana que vem: uma pergunta que quase todo autônomo se faz e evita responder." |
+| 03 | **B2** — Produtividade (Sobrecarga) | "No último email falei sobre renda. Mas adianta ganhar mais se a sua agenda já tá no limite?" | "Semana que vem: uma pergunta que quase todo(a) profissional se faz e evita responder." |
 | 04 | **A2** — PF vs. CNPJ (Insegurança) | "Semana passada falei de produtividade. Agora quero te provocar sobre algo mais estrutural…" | "Semana que vem: o que vai acontecer com o seu trabalho se você ignorar IA por mais 1 ano." |
 | 05 | **B3** — Agentes de IA (Ficar pra trás) | "No email anterior te mostrei uma comparação que incomoda. Hoje quero falar de outra coisa que incomoda…" | "Semana que vem: por que tem gente pior que você ganhando mais visibilidade." |
-| 06 | **B4** — Marketing de Conteúdo (Invisibilidade) | "Semana passada falei de IA. Hoje falo de algo mais antigo, mas igualmente urgente." | "Semana que vem: a situação mais constrangedora que um autônomo pode passar com um cliente." |
+| 06 | **B4** — Marketing de Conteúdo (Invisibilidade) | "Semana passada falei de IA. Hoje falo de algo mais antigo, mas igualmente urgente." | "Semana que vem: a situação mais constrangedora que um(a) profissional de saúde pode passar com um cliente." |
 | 07 | **A3** — Nota fiscal (Perder clientes) | "No email passado falei de visibilidade. Mas e quando o cliente chega, e você não consegue nem emitir nota?" | "Semana que vem: o motivo pelo qual você fatura mais e sente menos." |
-| 08 | **B5** — Investimentos (Dinheiro sumindo) | "Semana passada falei sobre não perder clientes. Hoje é sobre não perder dinheiro que já entrou." | "Semana que vem: o ponto cego que faz autônomo se sentir no caos financeiro." |
+| 08 | **B5** — Investimentos (Dinheiro sumindo) | "Semana passada falei sobre não perder clientes. Hoje é sobre não perder dinheiro que já entrou." | "Semana que vem: o ponto cego que faz profissional de saúde se sentir no caos financeiro." |
 | 09 | **B6** — Eu, Chefe de Mim (Caos financeiro) | "No último email falei de investir. Antes disso, tem um passo que 90% pula…" | "Semana que vem fecho essa série com o que mais precisa ser dito." |
 | 10 | **A4** — Institucional + convite para assessoria | "Essa é a última semana da nossa série. Passamos por dor de renda, sobrecarga, visibilidade, caos financeiro. Hoje quero te entregar o que eu acho que mais importa." | — *(fechamento + convite forte)* |
 
@@ -111,7 +125,7 @@ A ordem alterna conteúdo educacional (B) com argumentos de formalização (A). 
 
 No lugar do callback, inclua uma apresentação curta da série:
 
-> Oi, [nome]. Sou o Antonio, do time de Growth da Contabilizei. Nas próximas 10 semanas vou aparecer aqui toda semana com algo que aprendi conversando com autônomos como você — sobre renda, produtividade, posicionamento, organização. A ideia é simples: te ajudar a ter mais clareza sobre o seu trabalho, sem enrolação.
+> Oi, [nome]. Sou a Dani Coragem, Diretora de Experiência do Cliente aqui da Contabilizei. Nas próximas 10 semanas vou aparecer aqui toda semana com algo que aprendi escutando profissionais de saúde como você — sobre rotina clínica, renda, organização e os próximos passos da carreira. A ideia é simples: te ajudar a ter mais clareza sobre o seu trabalho, sem enrolação.
 
 ### Instruções específicas para o Email 10 (fechamento)
 
@@ -121,11 +135,11 @@ No lugar do teaser, inclua um fechamento e um convite mais direto que nos demais
 
 ---
 
-## 4. Filosofia de copy: DOR PRIMEIRO, na voz do Antonio
+## 4. Filosofia de copy: DOR PRIMEIRO, na voz da Dani
 
 ### Princípio central
 
-**Todo email — subject line, preheader e abertura — deve começar pela DOR, nunca pela solução.** O leitor precisa sentir que o email entende a situação dele antes de oferecer qualquer coisa. E tudo isso na voz do Antonio: primeira pessoa, conversacional, sem formalidade.
+**Todo email — subject line, preheader e abertura — deve começar pela DOR, nunca pela solução.** O leitor precisa sentir que o email entende a situação dele antes de oferecer qualquer coisa. E tudo isso na voz da Dani: primeira pessoa, conversacional, sem formalidade.
 
 ### Estrutura de copy de cada email
 
@@ -138,44 +152,44 @@ ABERTURA → Descreve a situação dolorosa de forma empática e específica
 DESENVOLVIMENTO → Apresenta o conteúdo/solução como resposta à dor
 CTA → Ação orientada ao alívio da dor
 TEASER → 1 linha adiantando o próximo email (exceto email 10)
-ASSINATURA → "Abraço, Antonio"
+ASSINATURA → "Um abraço, Dani / Diretora de Experiência do Cliente · Contabilizei"
 ```
 
-### Exemplos de subject lines — RUIM vs. BOM
+### Exemplos de subject lines — RUIM vs. BOM (contexto saúde)
 
 **Email B2 (Produtividade):**
-- ❌ RUIM: "Curso gratuito de produtividade para autônomos"
+- ❌ RUIM: "Curso gratuito de produtividade para profissionais de saúde"
 - ❌ RUIM: "Aprenda a ser mais produtivo"
-- ✅ BOM: "Trabalhar 12h por dia não é produtividade"
+- ✅ BOM: "Atende o dia inteiro e ainda leva trabalho pra casa?"
 - ✅ BOM: "{{ contact.nome_para_marketing }}, cansou de não dar conta?"
-- ✅ BOM: "Você trabalha demais. E ganha de menos."
+- ✅ BOM: "12h de plantão não é produtividade"
 
 **Email A1 (Formalizados ganham 3x mais):**
 - ❌ RUIM: "Estudo SEBRAE sobre formalização"
 - ❌ RUIM: "Sabia que PJ ganha mais que PF?"
-- ✅ BOM: "Por que seu colega ganha mais que você?"
-- ✅ BOM: "Seu trabalho vale mais do que você recebe"
-- ✅ BOM: "A diferença de renda que ninguém te contou"
+- ✅ BOM: "Por que sua colega de turma ganha mais que você?"
+- ✅ BOM: "Seu atendimento vale mais do que você recebe"
+- ✅ BOM: "A diferença de renda que ninguém te contou na faculdade"
 
 **Email A3 (Nota fiscal):**
-- ❌ RUIM: "Como emitir nota fiscal sendo autônomo"
+- ❌ RUIM: "Como emitir nota fiscal sendo profissional de saúde"
 - ❌ RUIM: "Guia completo de emissão de NF"
-- ✅ BOM: "Perdeu um cliente por não emitir nota?"
-- ✅ BOM: "Me pediram nota fiscal. E agora?"
-- ✅ BOM: "O constrangimento que todo autônomo já viveu"
+- ✅ BOM: "Convênio pediu NF. E agora?"
+- ✅ BOM: "Recibo médico não é o suficiente?"
+- ✅ BOM: "Perdeu um paciente porque não emite nota?"
 
 **Email B4 (Marketing de Conteúdo):**
 - ❌ RUIM: "Curso de marketing de conteúdo gratuito"
 - ❌ RUIM: "Aprenda a divulgar seus serviços"
-- ✅ BOM: "Bom no que faz, mas ninguém sabe"
-- ✅ BOM: "Seus concorrentes aparecem mais que você?"
-- ✅ BOM: "Talento sem visibilidade não paga as contas"
+- ✅ BOM: "Bom de consultório, invisível na internet"
+- ✅ BOM: "Por que aquele colega tem agenda lotada e você não?"
+- ✅ BOM: "Conteúdo bom não substitui atendimento bom — mas chama paciente"
 
 ### Regras de subject line
 
 1. Máximo 50 caracteres (idealmente 35-45 para mobile)
 2. SEMPRE comece pela dor, frustração ou situação — nunca pelo conteúdo ou pela marca
-3. Use linguagem conversacional de primeira/segunda pessoa — como o Antonio escreveria num WhatsApp
+3. Use linguagem conversacional de primeira/segunda pessoa — como a Dani escreveria num WhatsApp
 4. Pode usar pergunta direta ("Você..." / "Por que..."), afirmação provocativa ou situação concreta
 5. Token de nome APENAS quando agrega emocionalmente (ex: "{{ contact.nome_para_marketing }}, cansou de não dar conta?"), NÃO como padrão automático
 6. NUNCA mencione "curso", "material", "planilha", "assessoria" ou "Contabilizei" no subject — esses são o meio, não o gancho
@@ -221,7 +235,7 @@ Use personalization tokens do HubSpot com fallback. Sintaxe:
 
 **Cidade:** Use APENAS quando fizer sentido contextual — argumentos sobre fiscalização regional ou dados de mercado local. NÃO force em todo email.
 
-**Segmento/profissão:** Use para personalizar termos que variam por profissão — "honorários" (saúde), "projeto" (engenharia/arquitetura), "consulta" (psicologia), "sessão" (coaching), "atendimentos" (genérico). Use no corpo do email onde cabe naturalmente, não em todo parágrafo.
+**Segmento/profissão (saúde):** Use para personalizar termos que variam dentro da saúde — "consulta" (médico, dentista, nutricionista), "sessão" (psicólogo, fisioterapeuta), "atendimento" (genérico para todos), "plantão" (médico). O token `segmento_profissao_site` traz a profissão específica (ex: "Médico", "Psicólogo"); use natural no corpo, não em todo parágrafo. Quando não houver dado, use fallback "saúde" ou "área".
 
 ### Regra de ouro da personalização
 
@@ -232,19 +246,19 @@ A personalização deve parecer natural. Se ao ler o email com o fallback o text
 ## 6. Guia de copy — Aprendizados das pesquisas
 
 ### Insight #1 — O público é heterogêneo
-Autônomos não se veem como "autônomos" — se veem pela profissão. Um psicólogo não se identifica com um engenheiro. A personalização por `segmento_profissao_site` é o que cria conexão. Sem ela, a mensagem é genérica demais para gerar engajamento.
+Autônomos não se veem como "profissionais de saúde" — se veem pela profissão. Um psicólogo não se identifica com um engenheiro. A personalização por `segmento_profissao_site` é o que cria conexão. Sem ela, a mensagem é genérica demais para gerar engajamento.
 
 ### Insight #2 — Três argumentos centrais de formalização
 
 Use estes argumentos nos emails do Bloco A, alternando o ângulo:
 
 1. **Economia tributária:** Pessoa Física pode pagar até 27,5% de IR. Como PJ no Simples Nacional, a alíquota pode começar em 6%. A diferença é significativa na maioria dos casos.
-2. **Credibilidade e emissão de NF:** Muitos contratantes e empresas só aceitam NF de PJ. Sem CNPJ, o autônomo perde oportunidades de trabalho e não transmite profissionalismo.
+2. **Credibilidade e emissão de NF:** Muitos contratantes e empresas só aceitam NF de PJ. Sem CNPJ, o(a) profissional perde oportunidades de trabalho e não transmite profissionalismo.
 3. **Proteção contra fiscalização:** Autônomos PF que recebem recorrentemente por serviços podem cair na malha fina. A Receita Federal tem cruzamento de dados cada vez mais sofisticado.
 
 ### Insight #3 — As principais travas emocionais
 
-Da pesquisa com autônomos:
+Da pesquisa com profissionais de saúde:
 - **"Medo de errar e gerar custo fixo"** (47%)
 - **"Falta de clareza sobre os impostos"** (41%)
 - **"Não saber se é o momento certo"** (40%)
@@ -253,7 +267,7 @@ Os emails devem nomear essas travas diretamente. A assessoria gratuita existe ju
 
 ### Insight #4 — Gatilhos situacionais que levam à assessoria
 
-Das monitorias de atendimento, estes são os momentos que fazem o autônomo buscar ajuda:
+Das monitorias de atendimento, estes são os momentos que fazem o(a) profissional buscar ajuda:
 - Alguém pediu nota fiscal e ele não consegue emitir
 - Não sabe quais impostos tem que pagar
 - Acha que abrir CNPJ é caro
@@ -265,7 +279,7 @@ Use esses gatilhos como ganchos de abertura nos emails do Bloco A.
 
 ### Insight #5 — Linguagem neutra sobre informalidade
 
-NUNCA julgue ou moralize sobre o autônomo estar informal. Muitos têm bons motivos e a decisão é pessoal. O tom deve ser informativo e empoderador — "aqui estão os fatos para você decidir", nunca "você está errado por não ter CNPJ". Tratar a opção informal/PF como um regime tributário legítimo, não como um erro.
+NUNCA julgue ou moralize sobre o(a) profissional estar informal. Muitos têm bons motivos e a decisão é pessoal. O tom deve ser informativo e empoderador — "aqui estão os fatos para você decidir", nunca "você está errado por não ter CNPJ". Tratar a opção informal/PF como um regime tributário legítimo, não como um erro.
 
 ### Insight #6 — Dores da vida autônoma (para emails do Bloco B)
 
@@ -274,43 +288,43 @@ NUNCA julgue ou moralize sobre o autônomo estar informal. Muitos têm bons moti
 - 2ª preocupação: "se eu ficar doente ou tirar férias, minha renda para"
 - 3ª preocupação: instabilidade de renda (meses bons e meses ruins)
 - Público muito analógico ou usa ferramentas simples para precificação, agendamento e emissão de recibos
-- A vida de autônomo é solitária — senso de pertencimento é uma dor real
+- A vida de profissional de saúde é solitária — senso de pertencimento é uma dor real
 
 ### Insight #7 — A assessoria é a porta de entrada
 
 A assessoria contábil gratuita é o principal CTA de conversão. Pontos-chave sobre o produto:
 - É uma conversa real com um contador com CRC ativo (não é chatbot)
 - 100% gratuita, sem compromisso de contratação
-- Analisa o caso específico do autônomo: qual regime é melhor, quanto vai economizar, como emitir nota
+- Analisa o caso específico do(a) profissional: qual regime é melhor, quanto vai economizar, como emitir nota
 - Tempo médio de abertura após assessoria: 6 dias úteis, 100% online
 
 ---
 
-## 7. Voz do Antonio — tom da série
+## 7. Voz da Dani — tom da série
 
 A voz aqui NÃO é a voz institucional da Contabilizei. É a voz de uma pessoa que trabalha na Contabilizei e compartilha coisas úteis toda semana.
 
-### Como o Antonio escreve
+### Como a Dani escreve
 
 | Característica | Como aplicar |
 |----------------|--------------|
 | **Primeira pessoa** | Sempre "eu", "te", "a gente". Nunca "a Contabilizei preparou" ou "nossa equipe recomenda". |
 | **Conversacional** | Frases curtas. Parágrafos curtos. Contrações ("pra", "tá", "né") usadas com moderação. |
 | **Empático sem ser piegas** | Nomeia a dor sem dramatizar. "Sei que isso incomoda" em vez de "eu imagino como é difícil pra você". |
-| **Curioso** | Compartilha observações como quem descobriu algo: "Percebi que…", "Nos dados a gente vê…", "Conversando com autônomos, isso aparece muito…" |
+| **Curioso** | Compartilha observações como quem descobriu algo: "Percebi que…", "Nos dados a gente vê…", "Conversando com profissionais de saúde, isso aparece muito…" |
 | **Direto sobre a ação** | Na hora do CTA, é claro sobre o que quer: "Se isso fez sentido, dá uma olhada aqui", "Se quiser ir mais fundo, agenda uma conversa". |
 | **Sem hype** | Não usa "INCRÍVEL", "REVOLUCIONÁRIO", "100% exclusivo". Não promete o que não entrega. |
 
-### Frases típicas do Antonio
+### Frases típicas da Dani
 
 - "Vou te contar uma coisa que apareceu nos dados essa semana…"
-- "Conversando com um autônomo ontem, ele me disse algo que vale refletir…"
+- "Conversando com um(a) profissional de saúde ontem, ele me disse algo que vale refletir…"
 - "Isso talvez não se aplique a você, mas se aplicar, vale a leitura."
 - "Se fizer sentido pra você, tá aqui o caminho."
 - "Posso estar errado, mas minha impressão é que…"
 - "Sei que parece muito, mas na prática é mais simples do que parece."
 
-### O que EVITAR na voz do Antonio
+### O que EVITAR na voz da Dani
 
 - Jargão contábil: "enquadramento tributário", "regime de competência", "pró-labore" (a menos que esteja explicando)
 - Tom professoral, corporate ou condescendente
@@ -323,23 +337,24 @@ A voz aqui NÃO é a voz institucional da Contabilizei. É a voz de uma pessoa q
 
 ### Sobre a assinatura
 
-Padrão sugerido (Antonio ajustar se quiser):
+Padrão (com foto da Dani ao lado):
 
 ```
-Abraço,
-Antonio
-Growth na Contabilizei
+Um abraço,
+Dani Coragem
+Diretora de Experiência do Cliente · Contabilizei
 ```
 
 Alternativas mais casuais:
 ```
 Até semana que vem,
-Antonio
+Dani
+Diretora de Experiência do Cliente · Contabilizei
 ```
 
 ```
-Qualquer coisa é só responder,
-Antonio
+Qualquer coisa, é só responder esse email,
+Dani
 ```
 
 ---
@@ -384,9 +399,10 @@ O email deve parecer um email pessoal, não um flyer. **Minimalismo intencional.
 
 [Teaser — 1 linha em itálico ou parágrafo discreto]
 
-[Assinatura: "Abraço,
-Antonio
-Growth na Contabilizei"]
+[Assinatura com foto pequena redonda da Dani à esquerda:
+"Um abraço,
+Dani Coragem
+Diretora de Experiência do Cliente · Contabilizei"]
 
 [Divisória sutil — linha fina cinza clara]
 
@@ -403,15 +419,16 @@ Growth na Contabilizei"]
 - Ícones de redes sociais em destaque (aceitável discreto no footer)
 - Barra de "siga-nos nas redes"
 
-### Foto do Antonio (opcional — flag para o Antonio decidir)
+### Foto da Dani (obrigatória nesta régua)
 
-Uma foto pequena e redonda (40-50px de diâmetro) ao lado da assinatura aumenta a percepção de "email pessoal". Se usar:
+A foto pequena e redonda (44–50px de diâmetro) ao lado da assinatura é parte do conceito da série e não deve ser omitida. Reforça que é uma pessoa real falando com o profissional.
 
 ```html
-<img src="[URL_FOTO_ANTONIO]" width="44" height="44" alt="Antonio" style="border-radius:50%; display:inline-block; vertical-align:middle;">
+<img src="[URL_FOTO_DANI]" width="48" height="48" alt="Dani Coragem"
+     style="border-radius:50%; display:block; border:0; outline:none;">
 ```
 
-Se o Antonio não tiver foto pronta para usar, omitir — não prejudica o email.
+A foto deve ser hospedada no File Manager do HubSpot (recomendado) ou em CDN próprio antes do envio. Para desenvolvimento, usar a URL temporária do GitHub raw.
 
 ---
 
@@ -423,7 +440,7 @@ Para cada email da sequência, gere:
 
 1. **Subject line** — Máx 50 caracteres. Começar pela DOR, não pelo conteúdo. Pode usar token de nome quando agregar emocionalmente.
 2. **Preheader** — Máx 90 caracteres. Complementa o subject, não repete.
-3. **Corpo HTML completo** — Inline CSS, tables para layout, design minimalista e pessoal (ver seção 8). Incluir callback (email 2+), conteúdo pain-first, CTA único, teaser (email 1-9), assinatura do Antonio.
+3. **Corpo HTML completo** — Inline CSS, tables para layout, design minimalista e pessoal (ver seção 8). Incluir callback (email 2+), conteúdo pain-first, CTA único, teaser (email 1-9), assinatura da Dani com foto.
 4. **CTA button** — Texto orientado ao alívio da dor, com URL completa com UTMs (ver seção 10).
 
 ### Formato de saída
@@ -455,7 +472,8 @@ email-semana-10-assessoria-institucional.html
 - [ ] Apenas 1 CTA principal por email
 - [ ] CTA com texto orientado a benefício/alívio (não "Clique aqui" ou "Saiba mais")
 - [ ] Teaser do próximo email incluído (exceto email 10 — fechamento da série)
-- [ ] Assinatura do Antonio ("Abraço, Antonio / Growth na Contabilizei")
+- [ ] Assinatura da Dani com foto ("Um abraço, Dani Coragem / Diretora de Experiência do Cliente · Contabilizei")
+- [ ] Linguagem específica de saúde (paciente, atendimento, consulta, plantão, consultório) — sem genérico de "profissional de saúde"
 - [ ] Voz em 1ª pessoa, conversacional, sem tom corporativo
 - [ ] HTML 100% inline CSS, layout com tables
 - [ ] Design minimalista (sem banner hero, sem stock images)
